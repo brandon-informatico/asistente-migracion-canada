@@ -103,3 +103,12 @@ Ejemplo 2: Consulta de requisitos de idioma
 Pregunta: "¿Qué examen de inglés necesito para Express Entry y cuál es el puntaje de fondos exigido?"
 
 Respuesta del Agente: "Para inglés debes presentar el examen IELTS General o CELPIP. En cuanto a fondos de sustentabilidad, para una persona solitaria se requiere demostrar aproximadamente entre $14,000 y $15,000 CAD líquidos, a menos que apliques por Canadian Experience Class (CEC) o cuentes con una oferta laboral válida." -->
+
+#Prueba de pregunta.
+<img width="1919" height="560" alt="image" src="https://github.com/user-attachments/assets/a5984cd5-9e14-4e9b-9bd7-a97e0b5214dc" />
+
+#Prueba con respuesta y sugerencia.
+<img width="1875" height="787" alt="image" src="https://github.com/user-attachments/assets/7c4b1975-c88d-4b92-a7d7-5aab696a8004" />
+
+#Prueba con csv.
+<img width="1919" height="937" alt="image" src="https://github.com/user-attachments/assets/33805f28-b2f3-40b5-a2ca-34031b606aed" />
